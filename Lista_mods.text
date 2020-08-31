@@ -1,0 +1,36 @@
+{
+    "title":"SempaiG",
+    "titlecolor":"#ff19ff"
+
+"Bannerurl":"https://i.ibb.co/rv3T6Bt/banner.png",
+    "backgroundcolor":"#000000",
+    "listbackgroundcolor":"#80f0a040",
+
+     "listapatchreposirori":[
+     {
+      "namepatch":  "Broly",
+      "urlpatch": "https://github.com/3515388095/CharacterCreatorZMods/raw/master/Broly%20De%20Julio%20Port%20Legens.patch",
+      "urlicono":"https://i.ibb.co/d7N0Q8D/icono.png",
+      "descripción": "Broly de la película dbs muy famoso viene del juego de Dragon Ball legends parche en ttt"
+    },                    
+     {
+      "namepatch": "Zeno-Sama",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Zenosama.patch",
+      "urlicono": "https://i.ibb.co/jJrpxw8/zeno.png",
+      "description": "Este es el parche del Grandioso Zeno-sama, esta muy poderoso, pueden instalarlo en Xpj o yo que se xD"
+    },
+     {
+      "namepatch": "Zeno-Sama2",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Zenosama.patch",
+      "urlicono": "https://i.ibb.co/jJrpxw8/zeno.png",
+      "description": "Este es el parche del Grandioso Zeno-sama, esta muy poderoso, pueden instalarlo en Xpj o yo que se xD"
+    },
+     {
+      "namepatch": "Zeno-Sama3",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Zenosama.patch",
+      "urlicono": "https://i.ibb.co/jJrpxw8/zeno.png",
+      "description": "Este es el parche del Grandioso Zeno-sama, esta muy poderoso, pueden instalarlo en Xpj o yo que se xD"
+    }
+    ]
+
+}
